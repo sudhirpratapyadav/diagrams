@@ -1,0 +1,2 @@
+# diagrams
+My thought diagrams
