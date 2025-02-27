@@ -1,17 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="7gLI7upAxS11viv7-q5f">
-    <mxGraphModel dx="1364" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ViabenowtOJuw9vHgRL3-26" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="150" width="300" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ViabenowtOJuw9vHgRL3-11" value="VR Hand Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-26">
-          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="ViabenowtOJuw9vHgRL3-25" value="&lt;b&gt;Teleop Device (Operator)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;verticalAlign=top;" vertex="1" parent="ViabenowtOJuw9vHgRL3-26">
+          <mxGeometry width="300" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ViabenowtOJuw9vHgRL3-16" value="" style="group" vertex="1" connectable="0" parent="ViabenowtOJuw9vHgRL3-26">
           <mxGeometry x="50" y="50" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-15" value="VR Headset" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;verticalAlign=top;" vertex="1" parent="ViabenowtOJuw9vHgRL3-16">
+          <mxGeometry width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ViabenowtOJuw9vHgRL3-13" value="Display" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-16">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
@@ -19,16 +22,13 @@
         <mxCell id="ViabenowtOJuw9vHgRL3-14" value="Position and Oreintation sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-16">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ViabenowtOJuw9vHgRL3-15" value="VR Headset" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;verticalAlign=top;" vertex="1" parent="ViabenowtOJuw9vHgRL3-16">
-          <mxGeometry width="200" height="190" as="geometry" />
+        <mxCell id="ViabenowtOJuw9vHgRL3-11" value="VR Hand Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-26">
+          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ViabenowtOJuw9vHgRL3-25" value="Teleop Device (Operator)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;verticalAlign=top;" vertex="1" parent="ViabenowtOJuw9vHgRL3-26">
-          <mxGeometry width="300" height="350" as="geometry" />
+        <mxCell id="ViabenowtOJuw9vHgRL3-27" value="" style="group;strokeWidth=1;dashed=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="120" width="300" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="ViabenowtOJuw9vHgRL3-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="530" y="120" width="300" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="ViabenowtOJuw9vHgRL3-21" value="Robot" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;verticalAlign=top;" vertex="1" parent="ViabenowtOJuw9vHgRL3-27">
+        <mxCell id="ViabenowtOJuw9vHgRL3-21" value="&lt;b&gt;Robot&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;verticalAlign=top;" vertex="1" parent="ViabenowtOJuw9vHgRL3-27">
           <mxGeometry width="300" height="420" as="geometry" />
         </mxCell>
         <mxCell id="ViabenowtOJuw9vHgRL3-3" value="Manipultor Arms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-27">
@@ -43,11 +43,52 @@
         <mxCell id="ViabenowtOJuw9vHgRL3-7" value="Stereo Camera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-17">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ViabenowtOJuw9vHgRL3-17" source="ViabenowtOJuw9vHgRL3-8" target="ViabenowtOJuw9vHgRL3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ViabenowtOJuw9vHgRL3-8" value="Neck Motors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-17">
           <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ViabenowtOJuw9vHgRL3-23" value="Mobile Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ViabenowtOJuw9vHgRL3-27">
           <mxGeometry x="90" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-28" value="&lt;b&gt;Telop Software&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="390" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-33" value="Stereoscopic (3D) visual feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ViabenowtOJuw9vHgRL3-7" target="ViabenowtOJuw9vHgRL3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ViabenowtOJuw9vHgRL3-33" target="ViabenowtOJuw9vHgRL3-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="190" />
+              <mxPoint x="400" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ViabenowtOJuw9vHgRL3-38" target="ViabenowtOJuw9vHgRL3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-38" value="Head Oreintation Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ViabenowtOJuw9vHgRL3-14" target="ViabenowtOJuw9vHgRL3-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ViabenowtOJuw9vHgRL3-41" target="ViabenowtOJuw9vHgRL3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ViabenowtOJuw9vHgRL3-41" target="ViabenowtOJuw9vHgRL3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-41" value="Intutive Motion Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViabenowtOJuw9vHgRL3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ViabenowtOJuw9vHgRL3-11" target="ViabenowtOJuw9vHgRL3-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
