@@ -30,7 +30,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2UvYbliQ07eYhsEpa2xJ-6" value="Robot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="2UvYbliQ07eYhsEpa2xJ-6" value="Real Robot /&lt;br&gt;Simulator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="930" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2UvYbliQ07eYhsEpa2xJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2UvYbliQ07eYhsEpa2xJ-9" target="2UvYbliQ07eYhsEpa2xJ-6">
