@@ -47,10 +47,13 @@
         <mxCell id="2UvYbliQ07eYhsEpa2xJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2UvYbliQ07eYhsEpa2xJ-17" target="2UvYbliQ07eYhsEpa2xJ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2UvYbliQ07eYhsEpa2xJ-27" value="Mobile&lt;div&gt;Pose&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="2UvYbliQ07eYhsEpa2xJ-26">
+        <mxCell id="2UvYbliQ07eYhsEpa2xJ-27" value="3D&lt;br&gt;&lt;div&gt;Pose&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="2UvYbliQ07eYhsEpa2xJ-26">
           <mxGeometry x="-0.0571" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2UvYbliQ07eYhsEpa2xJ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2UvYbliQ07eYhsEpa2xJ-17" target="2UvYbliQ07eYhsEpa2xJ-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2UvYbliQ07eYhsEpa2xJ-17" value="FASTAPI&lt;br&gt;Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="470" y="210" width="120" height="60" as="geometry" />
@@ -58,7 +61,7 @@
         <mxCell id="2UvYbliQ07eYhsEpa2xJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2UvYbliQ07eYhsEpa2xJ-21" target="2UvYbliQ07eYhsEpa2xJ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2UvYbliQ07eYhsEpa2xJ-25" value="Mobile&lt;br&gt;Pose" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2UvYbliQ07eYhsEpa2xJ-23">
+        <mxCell id="2UvYbliQ07eYhsEpa2xJ-25" value="3D&lt;br&gt;Pose" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2UvYbliQ07eYhsEpa2xJ-23">
           <mxGeometry x="-0.1455" y="1" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
