@@ -66,7 +66,7 @@
         <mxCell id="2UvYbliQ07eYhsEpa2xJ-21" value="WebXR Web-App&lt;br&gt;&lt;br&gt;&lt;div&gt;(No Insatallation)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2UvYbliQ07eYhsEpa2xJ-28" value="Smartphone Phone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2UvYbliQ07eYhsEpa2xJ-28" value="Smartphone&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UvYbliQ07eYhsEpa2xJ-29" value="Teleop Software" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
